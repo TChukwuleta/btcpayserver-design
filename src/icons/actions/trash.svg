@@ -1,5 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_8677_1443)">
+<g clip-path="url(#actions-trash-clip)">
 <path d="M10 16V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
 <path d="M14 16V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
 <path d="M6 5H18V18.5C18 19.3284 17.3284 20 16.5 20H7.5C6.67157 20 6 19.3284 6 18.5V5Z" stroke="currentColor" stroke-width="1.5"/>
@@ -7,7 +7,7 @@
 <rect x="9" y="3" width="6" height="2" fill="currentColor"/>
 </g>
 <defs>
-<clipPath id="clip0_8677_1443">
+<clipPath id="actions-trash-clip">
 <rect width="24" height="24" fill="white"/>
 </clipPath>
 </defs>

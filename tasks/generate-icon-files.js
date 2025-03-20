@@ -7,11 +7,6 @@ const dir = resolve(__dirname, '../src/icons')
 const dst = resolve(__dirname, '../dist/svg/icons')
 const svgOpts = { multipass: true }
 const slugify = str => str.toLowerCase().replace(/\W/gi, '-')
-const titlecase = str => str.toLowerCase()
-  .replace(/\W/gi, '-')
-  .replace(/-svg$/gi, '')
-  .replace(/(?:^|[\s-/])\w/g, m => m.toUpperCase())
-  .replace(/-/gi, '')
 
 const svgs = globSync(join(dir, '**/*.svg')).sort()
 

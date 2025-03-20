@@ -20,7 +20,6 @@ const tokens = []
 const sprite = svgstore({
   cleanDefs: true,
   cleanSymbols: true,
-  renameDefs: true,
   symbolAttrs: {
     fill: 'none'
   }
