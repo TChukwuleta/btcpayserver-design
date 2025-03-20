@@ -91,6 +91,8 @@ module.exports = [
   { id: 'notifications-payout', category: 'notifications' },
   { id: 'notifications-plugin-disabled', category: 'notifications' },
   { id: 'notifications-plugin-released', category: 'notifications' },
+  { id: 'payment-lightning', category: 'payment' },
+  { id: 'payment-onchain', category: 'payment' },
   { id: 'payment-receive', category: 'payment' },
   { id: 'payment-send', category: 'payment' },
   { id: 'plus', category: 'general' },
